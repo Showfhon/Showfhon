@@ -1,9 +1,10 @@
-Hello, I'm showfhon. A freshman in NSYSU EE.
+Hello, I'm showfhon. A sophomore in NSYSU EE.
+((Currently struggling with my major..... so many things to learn :(
 
-I just started to learn some coding skill recently.
-Have finished C++ course in my college this spring but still understand nothing about programming.
+I just started to learn some coding skill few weeks ago.
+Have finished C++ course in my college but still understand nothing about programming.
 So now I try to study it on my own in my free time.
-Hope I can make some progress before the next semester begin.
+Hope I can make some progress in this semester.
 
 Currently learning - HTML/CSS/Javascript I guess
 
